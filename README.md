@@ -1,0 +1,4 @@
+-Daniel Lowe
+-Photo of ![Dan](images/bio_image.jpg)
+-Graduation year: 2016
+-Image Analysis
